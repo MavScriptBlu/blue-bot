@@ -1,0 +1,21 @@
+{
+	"name": "bluebot-mavscript",
+	"version": "1.0.0",
+	"description": "A custom Twitch bot for MavScriptBlu",
+	"main": "bot.js",
+	"scripts": {
+		"start": "node bot.js"
+	},
+	"keywords": [
+		"twitch",
+		"bot",
+		"mavscript"
+	],
+	"author": "MavScriptBlu",
+	"license": "ISC",
+	"dependencies": {
+		"@google/generative-ai": "^0.21.0",
+		"dotenv": "^16.4.5",
+		"ws": "^8.18.0"
+	}
+}

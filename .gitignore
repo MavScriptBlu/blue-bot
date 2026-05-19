@@ -1,0 +1,62 @@
+# Distribution archives
+.zip
+.tar.gz
+.tar.bz2
+
+# Installer files
+.exe
+.msi
+.deb
+.rpm
+
+# Log files
+*.log
+log/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+.hypothesis/
+.pytest_cache/
+
+# Editor-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# dotenv files
+.env
+.flaskenv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Twitch OAuth token
+oauth_token.txt
+
+
+node_modules/
+package-lock.json
+yarn.lock
