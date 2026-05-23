@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(New-Item -ItemType Directory -Force \"C:\\\\Users\\\\Blue\\\\OneDrive\\\\Documents\\\\GitHub\\\\twitchOverlays\\\\blue-bot\\\\src\")",
+      "PowerShell(New-Item -ItemType Directory -Force \"C:\\\\Users\\\\Blue\\\\OneDrive\\\\Documents\\\\GitHub\\\\twitchOverlays\\\\blue-bot\\\\src\\\\commands\")"
+    ]
+  }
+}

@@ -60,3 +60,6 @@ oauth_token.txt
 node_modules/
 package-lock.json
 yarn.lock
+
+# Bot runtime state (song queue, etc.)
+data/
